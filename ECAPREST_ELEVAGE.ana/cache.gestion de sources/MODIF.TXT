@@ -1,0 +1,5 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Ponte		TAR	67	nouvelle taille enregistrement : 67
+Ponte	Taux	CNW	Décimal$Entier non signé sur 1 octet	la rubrique Taux a pour nouveau type Décimal
+DosageParTone		TAR	103	nouvelle taille enregistrement : 103
+DosageParTone	Taux	CNW	Décimal$Entier non signé sur 1 octet	la rubrique Taux a pour nouveau type Décimal
